@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033691935832",
+    "project_id": "colorapp-92667",
+    "storage_bucket": "colorapp-92667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033691935832:android:512ebaf1d1178d999b462d",
+        "android_client_info": {
+          "package_name": "com.artbonix.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYUVBHJuQwklDh6gvPPuEtBQofkS-po8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
