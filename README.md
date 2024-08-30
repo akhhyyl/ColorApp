@@ -1,6 +1,6 @@
 <h1> ColorApp </h1>
 
-<p> ColorApp is a color list application built using Kotlin, Jetpack Compose, and MVVM architecture. It allows users to manage and sync a list of colors with offline capabilities and cloud synchronization. </p>
+<h4> ColorApp is a color list application built using Kotlin, Jetpack Compose, and MVVM architecture. It allows users to manage and sync a list of colors with offline capabilities and cloud synchronization. </h4>
 
 <h2> Features </h2>
 <h4> Color List Display: View a list of colors on the main screen. Figma design </h4>
